@@ -1,0 +1,7 @@
+br\com\invillia\controller\TweetController.class
+br\com\invillia\entity\Tweet.class
+br\com\invillia\dto\TweetDTO.class
+br\com\invillia\service\TweetService.class
+br\com\invillia\ApplicationStarter.class
+br\com\invillia\App.class
+br\com\invillia\repository\TwitterRepository.class

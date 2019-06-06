@@ -1,0 +1,4 @@
+br\com\invillia\service\TweetServiceTest.class
+br\com\invillia\controller\TweetControllerTest.class
+br\com\invillia\AppTest.class
+br\com\invillia\repository\TwitterRepositoryTest.class
